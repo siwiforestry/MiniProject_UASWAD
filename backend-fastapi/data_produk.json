@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nama_produk": "iPhone 15 Pro",
+        "kategori": "Smartphone",
+        "stok": 12,
+        "harga": 18500000
+    },
+    {
+        "id": 2,
+        "nama_produk": "Samsung Galaxy S24",
+        "kategori": "Smartphone",
+        "stok": 8,
+        "harga": 15000000
+    },
+    {
+        "id": 3,
+        "nama_produk": "MacBook Pro M3",
+        "kategori": "Laptop",
+        "stok": 5,
+        "harga": 24000000
+    },
+    {
+        "id": 4,
+        "nama_produk": "Asus ROG Strix G16",
+        "kategori": "Laptop",
+        "stok": 2,
+        "harga": 21000000
+    },
+    {
+        "id": 5,
+        "nama_produk": "Lenovo ThinkPad X1",
+        "kategori": "Laptop",
+        "stok": 0,
+        "harga": 19000000
+    },
+    {
+        "id": 6,
+        "nama_produk": "Logitech MX Master 3S",
+        "kategori": "Aksesoris",
+        "stok": 25,
+        "harga": 1500000
+    },
+    {
+        "id": 7,
+        "nama_produk": "Keychron K2 Mechanical",
+        "kategori": "Aksesoris",
+        "stok": 14,
+        "harga": 1200000
+    },
+    {
+        "id": 8,
+        "nama_produk": "Sony WH-1000XM5",
+        "kategori": "Audio",
+        "stok": 6,
+        "harga": 5200000
+    },
+    {
+        "id": 9,
+        "nama_produk": "AirPods Pro 2",
+        "kategori": "Audio",
+        "stok": 18,
+        "harga": 3800000
+    },
+    {
+        "id": 10,
+        "nama_produk": "LG UltraWide Monitor 29",
+        "kategori": "Monitor",
+        "stok": 4,
+        "harga": 3500000
+    },
+    {
+        "id": 11,
+        "nama_produk": "Dell 24 Monitor",
+        "kategori": "Monitor",
+        "stok": 10,
+        "harga": 2100000
+    },
+    {
+        "id": 12,
+        "nama_produk": "Anker PowerBank 20000mAh",
+        "kategori": "Aksesoris",
+        "stok": 30,
+        "harga": 650000
+    },
+    {
+        "id": 13,
+        "nama_produk": "SanDisk Extreme 1TB SSD",
+        "kategori": "Penyimpanan",
+        "stok": 7,
+        "harga": 1800000
+    },
+    {
+        "id": 14,
+        "nama_produk": "Seagate External HDD 2TB",
+        "kategori": "Penyimpanan",
+        "stok": 9,
+        "harga": 1100000
+    },
+    {
+        "id": 15,
+        "nama_produk": "iPad Air M2",
+        "kategori": "Tablet",
+        "stok": 3,
+        "harga": 10500000
+    },
+    {
+        "id": 16,
+        "nama_produk": "Samsung Galaxy Tab S9",
+        "kategori": "Tablet",
+        "stok": 0,
+        "harga": 12000000
+    },
+    {
+        "id": 17,
+        "nama_produk": "JBL Flip 6 Speaker",
+        "kategori": "Audio",
+        "stok": 15,
+        "harga": 1700000
+    },
+    {
+        "id": 18,
+        "nama_produk": "Razer DeathAdder V3",
+        "kategori": "Aksesoris",
+        "stok": 11,
+        "harga": 950000
+    },
+    {
+        "id": 19,
+        "nama_produk": "Xiaomi Smart Band 8",
+        "kategori": "Wearable",
+        "stok": 22,
+        "harga": 550000
+    },
+    {
+        "id": 20,
+        "nama_produk": "Apple Watch Series 9",
+        "kategori": "Wearable",
+        "stok": 5,
+        "harga": 6500000
+    }
+]
